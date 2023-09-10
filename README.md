@@ -9,8 +9,8 @@ This repository contains the code for the assignment seperated into several modu
 3. Install dependencies: `npm start`
 4. Configure your MongoDB connection
 5. Create a .env file and add:
-   a. SALT_ROUNDS
-   b. JWT_KEY
+   a. `SALT_ROUNDS`
+   b. `JWT_KEY`
 6. Start the application: `node app.js or nodemon app.js`
 
 
