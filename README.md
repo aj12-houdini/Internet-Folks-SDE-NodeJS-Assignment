@@ -1,6 +1,6 @@
 # Node SDE Intern Assignment
 
-This repository contains the code for the assignment seperated into several modules including models and controller
+This repository contains the code for the assignment seperated into several modules including models, controller and validator
 
 # Getting Started
 
